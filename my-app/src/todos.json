@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Task 1",
+      "responsable": "Laura",
+      "description": "Jugar a Fornite",
+      "priority": "medium"
+    },
+    {
+      "title": "Task 2",
+      "responsable": "Ruben",
+      "description": "Jugar al Metin 2",
+      "priority": "high"
+    },
+    {
+      "title": "Task 3",
+      "responsable": "Kevin",
+      "description": "Aprender ReactJS",
+      "priority": "low"
+    }
+  ]
+}
